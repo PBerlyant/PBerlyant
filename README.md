@@ -17,7 +17,7 @@ Leveraging my unique experience in AI training and sociological research to deve
 
 Interdisciplinary researcher with expertise bridging sociology, big data, and AI ethics. Combines analytical research skills with practical experience in AI training and data annotation. Demonstrated ability to analyze complex social phenomena through computational methods while maintaining a human-centered approach. Seeking to leverage diverse background in social sciences, data analysis, and community engagement to contribute to responsible AI policy development.
 
-[Read more about my background →](about.md)
+[Read more about my background](docs/about%20me.md)
 
 ---
 
