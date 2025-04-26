@@ -1,10 +1,10 @@
 # pberlyant.github.io
 ---
-Putri Berlyanti - AI Policy Researcher
+Putri Berlyanti - AI Policy Researcher in the making 🤖
 ---
-# Sociological Perspectives on AI Governance
-
 Data Annotator | Social Researcher | Technology Ethics Advocate
+# Sociological Perspectives on AI Governance
+**Future AI policy analyst | Researching how technology and ethics can shape public good | On a journey to make AI safe, fair, and impactful for all.**
 
 Leveraging my unique experience in AI training and sociological research to develop more equitable, inclusive technological futures.
 
