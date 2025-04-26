@@ -21,7 +21,8 @@ Interdisciplinary researcher with expertise bridging sociology, big data, and AI
 
 ---
 
-## Research Interests {#research}
+## Research
+## Main Interest
 
 * Algorithmic bias and fairness
 * Digital divide implications for AI governance
@@ -30,18 +31,19 @@ Interdisciplinary researcher with expertise bridging sociology, big data, and AI
 
 ---
 
-## Past Projects {#projects}
+## Projects
+## Pior Project
 
-### Cultural Analysis
+### Cultural Intermediary Practice in Strawberry Dress Trend on Twitter During COVID-19 Pandemic
 
-![Project Image](assets/images/project1.jpg)
+![Image](https://github.com/user-attachments/assets/e4f0a29d-55b2-40d3-a9a6-cb5879e5c0b5)
 
 **Overview:** Examined patterns of cultural representation in datasets used for computer vision training.
 
 
 ---
 
-## Publications {#publications}
+## Publications
 
 ### Position Papers
 
@@ -53,16 +55,16 @@ Interdisciplinary researcher with expertise bridging sociology, big data, and AI
 
 ---
 
-## Experience {#experience}
+## Experience
 
-### AI Trainer and Data Annotator | Company Name
-*January 2022 - Present*
+### Data Annotator | Labelbox
+*March 2025 - Present*
 
 [View Full Experience →](experience.md)
 
 ---
 
-## Contact {#contact}
+## Contact
 
 **Email:** [p.berly.pb@gmail.com](mailto:your.email@example.com)
 **LinkedIn:** [linkedin.com/in/putriberlyanti](https://linkedin.com/in/yourname)
