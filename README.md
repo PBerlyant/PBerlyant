@@ -51,7 +51,7 @@ Take a closer look at my pior project here.
 
 ### Position Papers
 
-"Addressing Gender Bias in AI Training Data: A Sociological Perspective" (2025)
+"Digital Colonialism or Digital Emancipation: Redirecting AI Advancement to Serve Vulnerable Communities in the Global South" (2025)
 
 [Read Full Paper →](papers/gender-bias.md)
 
