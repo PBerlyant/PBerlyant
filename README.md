@@ -64,8 +64,8 @@ Take a closer look at my pior project here.
 ### Data Annotator | Labelbox
 *March 2025 - Present*
 
-[View Full Experience →](experience.md)
-
+View or download my complete resume with details about my experience and skills.
+[View/Download my full experience here (PDF)](Berlyanti_Putri_Resume.pdf)
 ---
 
 ## Contact
