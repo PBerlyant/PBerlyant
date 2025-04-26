@@ -38,7 +38,11 @@ Interdisciplinary researcher with expertise bridging sociology, big data, and AI
 
 ![Image](https://github.com/user-attachments/assets/e4f0a29d-55b2-40d3-a9a6-cb5879e5c0b5)
 
-**Overview:** Examined patterns of cultural representation in datasets used for computer vision training.
+**Overview:** Examined patterns of cultural representation in social media analyzed with Multimodal Critical Discourse Analysis.
+
+Take a closer look at my pior project here.
+
+[📄 Download Project PDF](project-name.pdf)
 
 
 ---
