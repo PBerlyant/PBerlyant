@@ -66,5 +66,5 @@ Interdisciplinary researcher with expertise bridging sociology, big data, and AI
 
 ## Contact
 
-**Email:** [p.berly.pb@gmail.com](mailto:your.email@example.com)
-**LinkedIn:** [linkedin.com/in/putriberlyanti](https://linkedin.com/in/yourname)
+**Email:** [p.berly.pb@gmail.com](mailto:p.berly.pb@gmail.com)
+**LinkedIn:** [linkedin.com/in/putriberlyanti](https://linkedin.com/in/putri-berlyanti-74736518a)
