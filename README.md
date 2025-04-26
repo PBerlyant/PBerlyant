@@ -38,11 +38,11 @@ Interdisciplinary researcher with expertise bridging sociology, big data, and AI
 
 ![Image](https://github.com/user-attachments/assets/e4f0a29d-55b2-40d3-a9a6-cb5879e5c0b5)
 
-**Overview:** Examined patterns of cultural representation in social media analyzed with Multimodal Critical Discourse Analysis.
+**Overview:** Employed Multimodal Critical Discourse Analysis to examine patterns of cultural representation within social media trends.
 
 Take a closer look at my pior project here.
 
-[📄 Download Project PDF](project-name.pdf)
+[📄 Download my Research Portfolio](Research%20Portofolio-Putri%20Berlyanti.pdf)
 
 
 ---
